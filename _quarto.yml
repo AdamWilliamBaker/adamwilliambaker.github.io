@@ -1,0 +1,43 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "notes/*.qmd"
+
+website:
+  title: "Adam William Baker"
+  description: "Research on religion, spirituality, and psychological well-being across adulthood."
+  site-url: "https://adamwilliambaker.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Publications
+      - href: notes/index.qmd
+        text: Notes & code
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: "https://github.com/AdamWilliamBaker"
+        aria-label: GitHub
+      - icon: person-badge
+        href: "https://orcid.org/0009-0003-1958-0463"
+        aria-label: ORCID
+  page-footer:
+    left: "© Adam William Baker"
+    right: "Built with Quarto"
+  search: true
+  reader-mode: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+
+execute:
+  freeze: auto

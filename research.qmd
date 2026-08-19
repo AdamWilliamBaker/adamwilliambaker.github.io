@@ -1,0 +1,32 @@
+---
+title: Publications & research
+description: Published research and current work by Adam William Baker
+---
+
+## Publications
+
+::: {.publication}
+### Understanding Varieties of Religious Types: A Latent Profile Analysis of U.S. National Data
+
+**Baker, A. W.**, Song, J., & Ryff, C. D. (2026). *Psychology of Religion and Spirituality*. Advance online publication.
+
+[Paper](https://doi.org/10.1037/rel0000631){.btn .btn-sm .btn-primary} [OSF project](https://doi.org/10.17605/OSF.IO/YSD2C){.btn .btn-sm .btn-outline-dark}
+
+**Overview.** Religion and spirituality are multidimensional, but they are often studied one dimension at a time. Using a person-centered approach and a national sample of U.S. adults, this study identifies distinct religion-and-spirituality profiles and examines how they differ across sociodemographic and psychological characteristics.
+:::
+
+## Collaborative publication
+
+::: {.publication}
+### Understanding Links Between Race/Ethnicity and Health: Does Participation in the Musical Arts Matter?
+
+Ryff, C. D., Cha, S. E., **Baker, A. W.**, & Song, J. (2025). *Psychology of Aesthetics, Creativity, and the Arts*. Advance online publication.
+
+[Paper](https://doi.org/10.1037/aca0000805){.btn .btn-sm .btn-outline-dark}
+
+This collaborative study examines whether participation in the musical arts helps explain links between race/ethnicity and health.
+:::
+
+## Current research
+
+My current work examines stability and change in profiles of religiosity across midlife, and links varieties of religious experience to eudaimonic well-being. I am especially interested in how person-centered and longitudinal methods can reveal patterns that individual-variable analyses miss.

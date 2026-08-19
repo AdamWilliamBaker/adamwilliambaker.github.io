@@ -1,0 +1,26 @@
+---
+title: "A first research note"
+description: "A short description that will appear in the Notes & code listing."
+date: 2026-08-01
+categories: [methods, code]
+draft: true
+---
+
+Set `draft: false` when this note is ready to appear publicly.
+
+## Question
+
+What does this analysis or note help a reader understand?
+
+## Approach
+
+Write in Markdown as you normally would. For an executable analysis, add a Python, R, or Julia code cell in this `.qmd` file.
+
+```python
+values = [1, 2, 3, 4]
+sum(values) / len(values)
+```
+
+## Takeaway
+
+End with the result and why it matters.

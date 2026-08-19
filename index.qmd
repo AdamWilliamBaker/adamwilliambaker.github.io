@@ -1,0 +1,49 @@
+---
+title: "Adam William Baker"
+subtitle: "Ph.D. Student in Social Psychology · University of Wisconsin–Madison"
+page-layout: full
+title-block-banner: false
+---
+
+::: {.hero}
+::: {.hero-copy}
+## I study **religion, spirituality, and psychological well-being** across adulthood.
+
+I am a fourth-year Ph.D. student in Social Psychology at the University of Wisconsin–Madison. My research uses large-scale longitudinal data and person-centered methods to study how religious and spiritual lives relate to eudaimonic well-being, health, and aging.
+
+[View publications](research.qmd){.btn .btn-primary} [About me](about.qmd){.btn .btn-outline-dark}
+:::
+
+::: {.hero-card}
+### Latest publication
+
+**Understanding Varieties of Religious Types: A Latent Profile Analysis of U.S. National Data**
+
+Adam William Baker, Jieun Song, & Carol D. Ryff  
+*Psychology of Religion and Spirituality*, 2026
+
+[Read the paper](https://doi.org/10.1037/rel0000631) · [OSF project](https://doi.org/10.17605/OSF.IO/YSD2C)
+:::
+:::
+
+## What you’ll find here
+
+::: {.feature-grid}
+::: {.feature}
+### Publications
+
+Published research and collaborative work on well-being, health, and the arts.
+:::
+
+::: {.feature}
+### Notes & code
+
+Reproducible Quarto analyses and selected notes written in Markdown.
+:::
+
+::: {.feature}
+### Research approach
+
+Longitudinal data, latent profile and transition analyses, and open, reproducible research.
+:::
+:::

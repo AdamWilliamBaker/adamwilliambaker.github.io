@@ -14,8 +14,6 @@ website:
         text: Home
       - href: research.qmd
         text: Publications
-      - href: notes/index.qmd
-        text: Notes & code
       - href: about.qmd
         text: About
     right:

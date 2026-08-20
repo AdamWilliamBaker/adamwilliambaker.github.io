@@ -2,9 +2,20 @@
 title: About
 ---
 
-I am a fourth-year Ph.D. student in Social Psychology at the University of Wisconsin–Madison, where I work with Carol D. Ryff in the Department of Psychology and Institute on Aging. My research centers religion and spirituality, eudaimonic well-being, health, and adult development.
+I am a fourth-year Ph.D. student in Social Psychology at the University of Wisconsin–Madison, where I work with Carol D. Ryff in the Department of Psychology and Institute on Aging. My research program examines the complexity and diversity of religious and spiritual life, with particular attention to eudaimonic well-being and the existential dimensions of human experience.
 
-I use large-scale longitudinal data and person-centered methods—including latent profile and latent transition analysis—to understand how patterns of religious and spiritual life relate to psychological and social outcomes across adulthood.
+I am interested in religion and spirituality not simply as beliefs, identities, or predictors of other outcomes, but as ways people orient themselves toward questions of meaning, purpose, transcendence, belonging, suffering, and what makes a life worth living. These orientations can take many forms, including ambivalence, doubt, change, and combinations of beliefs and practices that are obscured when religiosity is treated as a single dimension.
+
+A central goal of my work is to preserve this richness while studying it with clarity and rigor. My current research uses large-scale longitudinal data and person-centered methods—including latent profile and latent transition analysis—to identify varied configurations of religious and spiritual life and examine how they develop over time. More broadly, I am interested in creative methodological approaches that can translate difficult questions about lived experience into evidence without forcing the phenomenon into overly simple categories.
+
+My published work on religious types and my current studies of change and eudaimonic well-being are the foundation of this developing program. At the same time, I do not see a particular dataset, method, life stage, or class of outcomes as defining its boundaries. I want to build a research program that takes subjective experience seriously while producing clear, cumulative empirical knowledge about religion, spirituality, and human flourishing.
+
+## Current directions
+
+- The diversity of religious and spiritual experience, including configurations that cross conventional categories
+- Stability and change in religious and spiritual life
+- Existential experience, meaning, purpose, and eudaimonic well-being
+- Person-centered, longitudinal, and other creative approaches to representing psychological complexity
 
 ## Education
 
@@ -17,5 +28,3 @@ I use large-scale longitudinal data and person-centered methods—including late
 - Email: [adam.baker@wisc.edu](mailto:adam.baker@wisc.edu)
 - [ORCID](https://orcid.org/0009-0003-1958-0463)
 - [Google Scholar](https://scholar.google.com/citations?user=C4_FsjgAAAAJ)
-
-I will add a downloadable CV once you decide that you want the current version publicly available.

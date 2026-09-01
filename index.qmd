@@ -33,6 +33,8 @@ Adam William Baker, Jieun Song, & Carol D. Ryff
 ### Publications
 
 Published research on varieties of religious and spiritual life, well-being, and collaborative work.
+
+[View publications](research.qmd){.btn .btn-outline-dark .btn-sm}
 :::
 
 ::: {.feature}

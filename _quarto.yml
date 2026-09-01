@@ -3,6 +3,8 @@ project:
   render:
     - "*.qmd"
     - "notes/*.qmd"
+  resources:
+    - files/Adam_William_Baker_CV.pdf
 
 website:
   title: "Adam William Baker"
@@ -14,6 +16,8 @@ website:
         text: Home
       - href: research.qmd
         text: Publications
+      - href: files/Adam_William_Baker_CV.pdf
+        text: CV
       - href: about.qmd
         text: About
     right:

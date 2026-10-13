@@ -8,8 +8,9 @@ project:
 
 website:
   title: "Adam William Baker"
-  description: "Research on religious and spiritual experience, existential life, and eudaimonic well-being."
+  description: "Adam William Baker is a social psychology Ph.D. student at the University of Wisconsin–Madison studying religious and spiritual experience, existential life, and eudaimonic well-being."
   site-url: "https://adamwilliambaker.github.io"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
@@ -40,6 +41,11 @@ format:
     toc: true
     code-copy: true
     code-overflow: wrap
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="SpglV-sPZX93PCxj-PAzQTrrl2fXCfUHltDOiz12OGo" />
+        <meta name="description" content="Adam William Baker is a social psychology Ph.D. student at the University of Wisconsin–Madison studying religious and spiritual experience, existential life, and eudaimonic well-being." />
+        <script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Adam William Baker","url":"https://adamwilliambaker.github.io/","jobTitle":"Ph.D. Student in Social Psychology","affiliation":{"@type":"CollegeOrUniversity","name":"University of Wisconsin–Madison"},"sameAs":["https://orcid.org/0009-0003-1958-0463","https://scholar.google.com/citations?user=C4_FsjgAAAAJ","https://github.com/AdamWilliamBaker","https://www.growkudos.com/profile/adam_baker_1"]}</script>
 
 execute:
   freeze: auto

@@ -1,6 +1,7 @@
 ---
 title: Notes & code
 description: Reproducible analyses, explainers, and selected research notes
+draft: true
 listing:
   contents: "*.qmd"
   sort: "date desc"
